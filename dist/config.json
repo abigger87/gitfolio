@@ -1,11 +1,11 @@
 [
  {
-  "username": null,
-  "name": null,
-  "userimg": null,
-  "sort": null,
-  "order": null,
-  "includeFork": null,
+  "username": "abigger87",
+  "name": "Andreas Bigger",
+  "userimg": "https://avatars2.githubusercontent.com/u/21288394?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": false,
   "theme": "light.css"
  }
 ]
